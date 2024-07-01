@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85d22795-dc5a-4b6c-b02a-e5bf676da50e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/GE2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/comparison.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/Changes_13_18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/Election_result_2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/Election_result_2018.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/NA_2018_centroids.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/NA_List.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/NA_List_Baluchistan.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/NA_List_KPK.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/NA_List_Punjab.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/NA_List_Sindh.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/Voter_Distribution_Lat_Lng.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/abc.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Election_2018_Stats/turnouts_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Gallup_Surveys/Dunya_2018_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Gallup_Surveys/Gallup_2017_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Gallup_Surveys/Gallup_2017_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Gallup_Surveys/Gallup_2018_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Gallup_Surveys/Gallup_2018_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Gallup_Surveys/IPOR_2018_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Perevious_Results/Previous_Elections_1997.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Perevious_Results/election_result_2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Perevious_Results/election_result_97_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Perevious_Results/election_result_97_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Perevious_Results/election_results_1997.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/Perevious_Results/election_results_2002-2013.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/pervious_results_preprocessed/results_1997.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/pervious_results_preprocessed/results_2002.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/data/pervious_results_preprocessed/results_2002.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/pervious_results_preprocessed/results_2008.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/data/pervious_results_preprocessed/results_2008.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/pervious_results_preprocessed/results_2013.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/data/pervious_results_preprocessed/results_2013.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/results/parties_result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/data/results/parties_result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/data/results/result_party.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/data/results/result_party.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/imgs/cermony.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/imgs/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/la.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/la.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/ml.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/ml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/results/final_result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/results/final_result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GE2024/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/GE2024/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GE2024" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bdoKfVMxWDm7Ju2C3UOUxavPUi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/pythonProject/GE2018/data/Election_2018_Stats&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85d22795-dc5a-4b6c-b02a-e5bf676da50e" name="Changes" comment="" />
+      <created>1706554253592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706554253592</updated>
+      <workItem from="1706554255790" duration="10822000" />
+      <workItem from="1706979610616" duration="6861000" />
+      <workItem from="1707035070773" duration="11065000" />
+      <workItem from="1707291876049" duration="1768000" />
+      <workItem from="1707324094760" duration="715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GE2018/main.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
